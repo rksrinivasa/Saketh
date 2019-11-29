@@ -1,0 +1,4 @@
+Jobname,Status
+DWH_Job,S
+DELTA1,R
+FULL1,S
